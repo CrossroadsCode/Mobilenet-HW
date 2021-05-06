@@ -1,0 +1,95 @@
+body {
+
+background-color:gray;
+font-family:'Purple Purse', cursive;
+}
+
+.header_div{
+
+background-color: firebrick;
+color: black;
+
+}
+
+.header_div img {
+    
+width:100px;
+
+}
+
+.main_div {
+
+background-color: firebrick;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid black;
+
+}
+
+.main_div label {
+
+background-color:darkgray; width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px gray;
+
+}
+
+#camera, #result {
+
+border: 2px solid gray;
+width: 310px;
+height: 310px;
+box-shadow: 5px 5px gray;
+
+}
+
+.main_div button {
+
+width: 310px;
+font-size: 16px;
+box-shadow: 5px 5px gray;
+border: 1px gray
+
+}
+
+.footer_div {
+
+margin-bottom: 50px;
+
+}
+
+.footer_div h4 {
+
+background-color: firebrick;
+border-radius: 10px;
+padding: 5px;
+box-shadow: 5px 5px 18px gray;
+
+}
+
+.footer_div img {
+
+width: 100px;
+
+}
+
+.copy_right_footer {
+
+position: fixed; 
+color: black;
+bottom: 0;
+width: 100%;
+background-color: gray;
+line-height: 3;
+text-align: center;
+
+
+}
+
+#maintitle {
+
+width: 100%;
+
+}
+
